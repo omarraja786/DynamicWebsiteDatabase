@@ -1,2 +1,9 @@
 # DynamicWebsiteDatabase
-A website created in HTML/CSS/PHP/JQuery and AJAX to dynamically retrieve records from database and search/add fields dynamically.
+A website created in PHP,JQuery, AJAX and Bootstrap 
+
+Consists of a:
+-Login System (Encrypted Password)
+-Dynamically searching for database records
+-Dynamically Adding database records
+-Editing Records
+
